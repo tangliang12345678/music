@@ -1,0 +1,201 @@
+/*<!--顶部导航栏隐藏效果-->*/
+#navigation1 #ul1 .ul1a{
+    background-color: #000;
+    z-index: 756;
+    width: 80px;
+    height: 120px;
+    display: none;
+    position: absolute;
+    top:50px;
+}
+#navigation1 #ul1 .ul1a li{
+    width: 70px;
+    height: 30px;
+    text-align: left;
+    font-size: 14px;
+    padding-left: 10px;
+    line-height: 30px;
+}
+#navigation1 #ul1 li:hover{
+    background-color: #7b7b7b;
+}
+#navigation1 #ul2 li:hover{
+    background-color: #7b7b7b;
+}
+#navigation1 #ul1 .ul1a li a:hover{
+    color: #d8d8d8;
+}
+#navigation1 #ul1 .ul1a li:hover{
+    background: rgba(0,255,100,0.6);
+}
+#navigation1 #ul2 .ul2dn{
+    background-color: #000;
+    z-index: 756;
+    width: 110px;
+    height: 90px;
+    display: none;
+    position: absolute;
+    top:50px;
+}
+#navigation1 #ul2 .ul2dn li{
+    width: 100px;
+    height: 30px;
+    text-align: left;
+    font-size: 14px;
+    padding-left: 10px;
+    line-height: 30px;
+}
+#navigation1 #ul2 .ul2dn li a:hover{
+    color: #d8d8d8;
+}
+#navigation1 #ul2 .ul2dn li:hover{
+    background: rgba(0,255,100,0.6);
+}
+#navigation1 .text{
+    border:none;
+    outline-style: none;
+}
+
+
+
+/*<!--周榜吉尼斯效果-->*/
+#jns .jnsb ul li div .jnsbb{
+    width: 260px;
+    height: 140px;
+    background: rgba(0,0,0,0.2);
+    position: absolute;
+    top: 0;
+    display: none;
+}
+#jns .jnsb ul li div .jnsbb img{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    margin-top: -25px;
+    left: 50%;
+    margin-left: -25px;
+}
+.ltgt{
+    background-color: #fff;
+    border: none;
+    outline-style: none;
+}
+#jns .jnsb{
+    height: 550px;
+    width: 1220px;
+    overflow: hidden;
+}
+#jns .jnsb ul li{
+    float: right;
+}
+
+
+
+/*<!--周榜企划-->*/
+#timer .timer2 .bud{
+    width: 965px;
+    height: 580px;
+}
+.bud1{
+    position: absolute;
+    z-index: 454;
+}
+.bud2{
+    position: absolute;
+    z-index: 453;
+    display: none;
+}
+.bud3{
+    position: absolute;
+    z-index: 452;
+    display: none;
+
+}
+.bud4{
+    position: absolute;
+    z-index: 451;
+    display: none;
+
+}
+.bud5{
+    position: absolute;
+    z-index: 450;
+    display: none;
+
+}
+
+
+/*<!--一周新歌-->*/
+#song .songb{
+    overflow: hidden;
+    height: 406px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*<!--合作伙伴-->*/
+#he .heh1a{
+    position: relative;
+}
+#he .heh1b{
+    position: relative;
+}
+#he .hehh1{
+    width: 340px;
+    height: 132px;
+    background: rgba(0,0,0,0.4);
+    position: absolute;
+    top:0;
+    text-align: center;
+    line-height: 132px;
+    color: #fff;
+    font-size: 16px;
+    display: none;
+}
+
+
+/*<!--周榜冠军轮播图-->*/
+#week .weekc li a{
+    font-size: 50px;
+}
+#week .weekc li{
+    text-align: center;
+    line-height: 300px;
+}
+
+
+/*咨询盘点*/
+
+#suggesta ul li div:hover{
+    box-shadow: 2px 2px 20px #ccc;
+}
+
+
+.active{
+    background-color: #35d7c3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
